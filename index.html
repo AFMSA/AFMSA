@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Recipe 101 </title>
+    <link rel="stylesheet" href="./resources/css/normalize.css" />
+    <!-- font-awesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+    />
+    <!-- main css -->
+    <link rel="stylesheet" href="./resources/css/main.css" />
+  </head>
+  <body>
+    <!-- nav  -->
+    <nav class="navbar">
+      <div class="nav-center">
+        <div class="nav-header">
+          <button class="nav-btn btn">
+            <i class="fas fa-align-justify"></i>
+          </button>
+        </div>
+        <div class="nav-links">
+          <a href="index.html" class="nav-link"> home </a>
+          <a href="recipes.html" class="nav-link"> recipes </a>
+        </div>
+      </div>
+    </nav>
+    <!-- end of nav -->
+    <!-- main -->
+    <main class="page">
+      <!-- header -->
+      <header class="hero">
+        <div class="hero-container">
+          <div class="hero-text">
+            <h1>Recipe 101</h1>
+            <h4>Cook your own recipe</h4>
+          </div>
+        </div>
+      </header>
+      <!-- end of header -->
+        
+      <div class="recipes-list">
+          <!-- single recipe -->
+          <a href="single-recipe.html" class="recipe">
+            <img
+              src="./resources/images/recipe-1.jpg"
+              class="img recipe-img"
+              alt=""
+            />
+            <h5>Beef Teriyaki</h5>
+            <p>Prep : 20min | Cook : 15min</p>
+          </a>
+          <!-- end of single recipe -->
+          <!-- single recipe -->
+          <a href="single-recipe-2.html" class="recipe">
+            <img
+              src="./resources/images/recipe-2.jpeg"
+              class="img recipe-img"
+              alt=""
+            />
+            <h5>Chicken Fajitas</h5>
+            <p>Prep : 20min | Cook : 20min</p>
+          </a>
+          <!-- end of single recipe -->
+          <!-- single recipe -->
+          <a href="single-recipe-3.html" class="recipe">
+            <img
+              src="./resources/images/recipe-3.jpg"
+              class="img recipe-img"
+              alt=""
+            />
+            <h5>Spinach Prawn Pasta
+            </h5>
+            <p>Prep : 5min | Cook : 15min</p>
+          </a>
+          <!-- end of single recipe -->
+          <!-- single recipe -->
+        </div>
+        <!-- end of recipes list -->
+      </section>
+    </main>
+    <!-- end of main -->
+    <!-- footer -->
+    <footer class="page-footer">
+      <p>
+        &copy; <span id="date"></span>
+        <span class="footer-logo">Recipe101</span> Built by Adityo Muhammad
+      </p>
+    </footer>
+    <script src="./resources/js/app.js"></script>
+  </body>
+</html>

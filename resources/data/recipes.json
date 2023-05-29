@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "name": "Beef Teriyaki",
+    "ingredients": [
+      "Flank steak", 
+      "Cornstarch", 
+      "Coconut oil (or a cooking oil of your choice", 
+      "Tamari (a Japanese form of soy sauce)",
+      "Brown sugar",
+      "Water",
+      "Cornstarch",
+      "Red pepper flakes",
+      "Green onions",
+      "Garlic cloves",
+      "Fresh ginger"
+  ],
+    "step": [
+      "Slice the flank against the grain into strips, as thin as possible. Place the steak in a ziploc bag and add the cornstarch. Toss to evenly coat.",
+      "In a small bowl, mix together the tamari, brown sugar, water, cornstarch and red pepper flakes. Stir to dissolve the sugar and cornstarch.",
+      "Heat a large skillet over medium-high heat. Add 2-3 tablespoons coconut oil and heat until hot. Shake off any excess cornstarch and carefully add 1/2 the beef in an even layer, breaking up any chunks. Let cook undisturbed for 4-5 minutes. Using tongs, flip the beef to the other side and let cook for another 2-3 minutes. Transfer to a plate. Repeat with the remaining oil and beef.",
+      "After transferring the second batch of cooked beef to a plate, Add a little more oil to the pan if needed and turn the heat to medium. Add the green onions, garlic and ginger and cook being careful not to burn for about 1-2 minutes. Add the sauce mixture and stir to combine. Bring the sauce to a simmer and let cook for 4-5 minutes until it thickens. Add the beef and serve immediately so the beef stays crispy. Serve with rice. Enjoy!"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Chicken Fajitas",
+    "ingredients": [
+      "1/4 cup soy sauce use gluten-free if needed",
+      "2 tablespoons oil",
+      "1/4 cup brown sugar",
+      "2 tablespoons lime juice",
+      "2 tablespoons white vinegar",
+      "3 cloves garlic minced",
+      "1 teaspoon salt",
+      "1/4 teaspoon ground ginger",
+      "1/2 teaspoon pepper",
+      "1 teaspoon chili powder",
+      "1 teaspoon cumin",
+      "3 boneless skinless chicken breasts, sliced into thin strips",
+      "1/2 large red onion thinly sliced",
+      "1 medium green pepper thinly sliced",
+      "1 medium red pepper thinly sliced",
+      "2 medium tomatoes chopped (optional)"
+    ],
+    "step": [
+      "Mix all the ingredients for the marinate together in a large ziploc bag or shallow dish. Add the sliced chicken and mix to coat it evenly. Marinate for at least 1 hour or up to 12 hours.",
+      "Heat a large skillet with 1 tablespoon of oil. Add the chicken and all the marinade to the skillet and saute for 3-4 minutes, bringing the sauce to a full boil.",
+      "Add the sliced onions, peppers, and tomatoes and cook until they are just tender, another 5-7 minutes.",
+      "Serve on corn tortillas with your favorite toppings such as avocado, feta cheese (or queso fresco), and salsa. Enjoy!"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Spinach Prawn Pasta",
+    "ingredients": [
+      "¼ packet spaghetti (125 g)",
+      "200 g king prawns (shimp) (1 cup)",
+      "½ red chilli",
+      "1 cup fresh baby spinach",
+      "2 tomatoes",
+      "4 garlic cloves",
+      "a pinch of pepper",
+      "1 tablespoon olive oil",
+      "2 tablespoon grated parmesan cheese"
+    ],
+    "step": [
+      "Cook the spaghetti according to the packet instructions.",
+      "Drain the water, and set aside.",
+      "Heat up the oil, add the peeled and chopped garlic and chopped chilli pepper.",
+      "Fry for 30 seconds so that the garlic can release its flavour, then add the prawns and cook for 2-3 minutes until they change their colour to pink.",
+      "Add the chopped tomatoes and spinach, and leave to cook for a further 1 minute so the spinach can wilt.",
+      "Mix in the spaghetti, season with pepper.",
+      "Sprinkle some parsmesan cheese and remove from the heat.",
+      "Serve hot!"
+    ]
+  }
+]
